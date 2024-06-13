@@ -1,7 +1,7 @@
 ### Hi there 👋
 -  <a href="https://www.infinitelocus.com/">Building Infinite Locus</a>
 - 🌱 Wearning the Learning Hat Always!
-- 💬 Ask me about anything related to Technology happy to help and learn:)
+- 💬 Discuss about anything related to Technology happy to share and learn:)
 - 📫 How to reach me: nabheet.scn@gmail.com
 <div align="left">
   <p> <strong>You can Find me on </strong><br>
