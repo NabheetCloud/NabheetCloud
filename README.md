@@ -1,6 +1,5 @@
 ### Hi there 👋
 -  <a href="https://www.infinitelocus.com/">Building Infinite Locus</a>
-- 🔭 Currenlty getting my head around the world of AI/Machine Learning/LLM/Langchain etc. I’m currently working on SAP BTP, SAP Related Tech and Open Source tech.
 - 🌱 Wearning the Learning Hat Always!
 - 💬 Ask me about anything related to Technology happy to help and learn:)
 - 📫 How to reach me: nabheet.scn@gmail.com
